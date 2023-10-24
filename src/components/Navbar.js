@@ -97,12 +97,12 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Docs
+                <ImBlog style={{ marginBottom: "2px" }} /> TFT APP
               </Nav.Link>
             </Nav.Item>
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/asadzali89"
+                href="https://github.com/arsalanzali"
                 target="_blank"
                 className="fork-btn-inner"
               >

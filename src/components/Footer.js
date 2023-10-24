@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Made By Asad Ali | Hosted by AWS</h3>
+          <h3>Made By Arsalan Ali | Hosted by AWS</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AA</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/asadzali89"
+                href="https://github.com/arsalanzali"
                 style={{ color: "blue" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/asad_z_ali"
+                href="https://twitter.com"
                 style={{ color: "blue" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/asadzainulabdinali/"
+                href="https://www.linkedin.com/in/arsalanzali/"
                 style={{ color: "blue" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/asad_z_ali/"
+                href="https://www.instagram.com"
                 style={{ color: "blue" }}
                 target="_blank" 
                 rel="noopener noreferrer"

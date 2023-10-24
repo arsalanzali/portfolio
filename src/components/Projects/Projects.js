@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import  aggiesinvent from "../../Assets/Projects/aggiesinvent.png";
-import drone from "../../Assets/Projects/drone.jpg";
-import lspace from "../../Assets/Projects/lspace.png";
+import  aggieshack from "../../Assets/Projects/hack.png";
+import TFT from "../../Assets/Projects/TFT.jpg";
+import AmericanAirlines from "../../Assets/Projects/AmericanAirlines.png";
 
 function Projects() {
   return (
@@ -19,29 +19,29 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={drone}
+              imgPath={TFT}
               isBlog={false}
-              title="IOT-Security and Computation Management"
-              description="This was my final college Capstone Project. In this project me and three other teammates worked on creating an autonmous delivery system. In this system a drone would fly over a rover and map out coordinates using machine learning to an objective. From here the rover would use pathfinding to get to the objective avoiding all obstacles in the way. The live stream from the drone and rover along with data metrics were monitored on a website that was built using React and AWS Amplify. The website was secured using AWS Cognito."
+              title="Teamfight Tactics Tracker"
+              description="The personal tracker for TFT, an auto battler game, offers users the ability to monitor their recent match history, providing insights on which characters they should have played based on data-driven recommendations. Developed using a combination of Selenium, Python, and AWS technologies, this tool seamlessly bridges the gap between gameplay decisions and analytical insights."
               
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={lspace}
+              imgPath={AmericanAirlines}
               isBlog={false}
-              title="NASA LSpace Academy"
-              description="This was one of my most interesting projects as it involves space. I was selected to be part of the NASA LSpace Academy which took place over the summer of 2019. During this Academy my teammates and I were given the duty of creating a rover design which would be sent to Kraken Mare one of the biggest frozen lakes on Titan(moon on Saturn). I got to create my first ever PDR(Preliminary Design Review). Along with this I was introduced to AutoCad, Solidworks, and Blender."
+              title="American Airlines DS Challenge"
+              description="For the American Airlines DS Challenge, my team and I secured an impressive 2nd place finish. Leveraging meticulous modeling and comprehensive data analysis, we crafted a model that accurately and precisely distinguishes different types of customers. My primary responsibility involved harnessing the American Airlines datasets to train this model, ensuring it could effectively identify customer types based solely on the provided data."
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={aggiesinvent}
+              imgPath={aggieshack}
               isBlog={false}
-              title="Aggies Invent"
-              description="Aggies Invent is a 48 hour problem solving challenge that takes place at Texas A&M University. In this event my team and I were tasked with the problem of using AR(Augmented Reality) to create an app that would help people navigate hospitals better. Using HP's Aruba Beacon Technology we created a test app that made the checking in and moving around process easier for those going to the Hospital. We won 1st place in this competition due to our design and implementation of the app."
+              title="Aggies Hackathon"
+              description="At the Aggies Hackathon, an intense overnight coding challenge, I collaborated with a team to develop an innovative solution. Together, we designed a travel-focused web application that allows users to input both a starting and ending destination. In response, the application offers a tailor-made itinerary, curating a unique journey for each individual user based on their inputs."
             />
           </Col>
         </Row>
