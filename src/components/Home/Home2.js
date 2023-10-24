@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I know the following languages →
               <i>
-                <b className="purple"> HTML, CSS, JavaScript, C++, and Python. </b>
+                <b className="purple"> HTML, JavaScript, C++, C#, SQL, and Python. </b>
               </i>
               <br />
               <br />
@@ -32,7 +32,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in{" "}
                 <b className="purple">
-                  Robots and Electric Vehicles.
+                  Game Design.
                 </b>
               </i>
               <br />
@@ -42,7 +42,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Valorant.
+                  TFT.
                 </b>
               </i>
             </p>
@@ -62,7 +62,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/asadzali89"
+                  href="https://github.com/arsalanzali"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -72,7 +72,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/asad_z_ali"
+                  href="https://twitter.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -82,7 +82,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/asadzainulabdinali/"
+                  href="https://www.linkedin.com/in/arsalanzali/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -92,7 +92,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/asad_z_ali/"
+                  href="https://www.instagram.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

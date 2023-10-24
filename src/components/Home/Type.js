@@ -10,6 +10,7 @@ function Type() {
           "Software Engineer 💻",
           "Self Proclaimed Pro Gamer 🕹️",
           "Car Enthusiast 🚗",
+          "LGBTQ+ Supporter 🌈"
         ],
         autoStart: true,
         loop: true,
