@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import  aggieshack from "../../Assets/Projects/hack.png";
-import TFT from "../../Assets/Projects/TFT.jpg";
+import TFT from "../../Assets/Projects/TFT.png";
 import AmericanAirlines from "../../Assets/Projects/AmericanAirlines.png";
 
 function Projects() {
