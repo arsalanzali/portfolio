@@ -93,7 +93,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://main.dibazi1azuu3e.amplifyapp.com"
+                href="https://github.com/arsalanzali/TFTTracker"
                 target="_blank"
                 rel="noreferrer"
               >
